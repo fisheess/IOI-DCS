@@ -1,5 +1,5 @@
 
-path='D:\Dropbox\DA\Matlab\testdata_processed_figures\';
+path='D:\Dropbox\DA\Matlab\IOI-DCS\';
 % load data
 load([path 'timeCourses.mat']);
 
